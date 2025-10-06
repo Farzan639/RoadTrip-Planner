@@ -23,8 +23,7 @@ const PORT = process.env.PORT || 5000;
 app.use(
   cors({
     origin: [
-          "https://road-trip-planner-alpha.vercel.app",
-        "http://localhost:7072",
+          "https://road-trip-planner-xi.vercel.app",
         "http://localhost:3000",
     ],
     credentials: true,
