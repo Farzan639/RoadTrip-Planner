@@ -2,7 +2,6 @@
 A full-stack MERN application that allows users to create, manage, and explore road trips with authentication and persistent storage.
 
 ✨ **Live Demo:** https://road-trip-planner-xi.vercel.app/  
-📦 **Repository:** https://github.com/Farzan639/RoadTrip-Planner
 
 ---
 
@@ -60,11 +59,11 @@ The backend is powered by Node.js, Express, MongoDB, and JWT-based authenticatio
 - Express.js  
 - MongoDB + Mongoose  
 - JSON Web Tokens (JWT)  
-- Multer (if used for image uploads)
+- Cloudinary (used for image uploads)
 
 ### **Deployment**
 - Vercel (Frontend)  
-- MongoDB Atlas Cloud  
+- Onrender (Backend) 
 
 ---
 
